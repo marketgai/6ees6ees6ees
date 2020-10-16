@@ -1,3 +1,6 @@
 class Bee {
-  // TODO..
+  constructor(name) {
+    this.
+  }
+
 };
